@@ -23,13 +23,6 @@ I also operate an **autonomous-agent control plane** on a SaaS I built solo. Cla
 - Building MCP servers that proxy into an existing REST API.
 - Surviving 6.5 years at Liferay across five roles.
 
-## Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inacionery&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inacionery&layout=compact&theme=tokyonight"/>
-</p>
-
 ## Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inacio-nery/)
